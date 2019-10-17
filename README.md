@@ -27,8 +27,8 @@ Navigate through Amazon S3 buckets
 6. Selected, Configure Options (Exhibit #8)
 7. Set permissions (Exhibit #3 – #6))
 8. Reviewed (Exhibit #6)
-9. Created bucket (Exhibit #7)
-10. Uploaded bucket
+9. Created folder at the bucket level(Exhibit #7)
+10. Uploaded bucket (uploaded an object into a subfolder)
 
 ## Documentation
 
