@@ -3,7 +3,7 @@
 
 
 ## Amazon S3 essentials (Buckets)
-# It's a root level folder where you store your files called, OBJECTS
+### It's a root level folder where you store your files called, OBJECTS
 
 
 ## Task
@@ -18,7 +18,7 @@ Navigate through Amazon S3 Buckets
 2. Went to the, AWS Management console
 3. Selected, S3 to create bucket
 
-# Note: Must adhere to Amazon’s characters and length formatting when creating a bucket. Bucket names must be unique across Amazon world.
+##### Note: Must adhere to Amazon’s characters and length formatting when creating a bucket. Bucket names must be unique across Amazon world.
 
 4. Selected, Create Bucket (entered required information)
 5. Clicked, Create
@@ -29,7 +29,7 @@ Navigate through Amazon S3 Buckets
 10. Uploaded bucket (uploaded an object into a subfolder)
 
 ## Add Tags to an S3 Object
-# A tag is a label that you assign to place identifiable information to help with tracking
+### A tag is a label that you assign to place identifiable information to help with tracking
 
 1. Selected a bucket in the S3 Buckets list
 2. In the dashboard, under OVERVIEW; selected, ACTIONS
