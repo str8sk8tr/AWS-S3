@@ -8,36 +8,55 @@
 
 ## Task
 Navigate through Amazon S3 Buckets
+
 • Organize data using Object Tags
+
 • Understanding data (storage analysis, S3 inventory and metrics)
+
 • Acting on data (default encryption, event notification)
+
 • Monitor and secure data (Bucket permissions check, trusted advisor)
 
 ## Criteria
 Step 1: Logged in to AWS 
+
 Step 2: Went to the, AWS Management console
+
 Step 3: Selected, S3 to create bucket
 
 ##### Note: Must adhere to Amazon’s characters and length formatting when creating a bucket. Bucket names must be unique across Amazon world.
 
 Step 4: Selected, Create Bucket (entered required information)
+
 Step 5: Clicked, Create
+
 Step 6: Selected, Configure Options
+
 Step 7: Set permissions
+
 Step 8: Reviewed
+
 Step 9: Created folder at the bucket level
+
 Step 10: Uploaded bucket (uploaded an object into a subfolder)
 
 ## Add Tags to an S3 Object
 ### A tag is a label that you assign to place identifiable information to help with tracking
 
 Step 1: Selected a bucket in the S3 Buckets list
+
 Step 2: In the dashboard, under OVERVIEW; selected, ACTIONS
+
 Step 3: Under NAME, I selected a file 
+
 Step 4: Then I selected, ACTIONS
+
 Step 5: Under ACIONS, I selected "ADD TAGS"
+
 Step 6: Add a Tag (I think AWS only supports 10 tags for S3)
+
 Step 7: Clicked, SAVE
+
 Step 8: Clicked, SAVE TAGS
 
 
